@@ -1,0 +1,36 @@
+#myimage{
+  width: 400px;
+  display: none;
+}
+
+#imgbtn{
+  margin: 5px;
+}
+
+div#accordion {
+  border: 1px solid;
+  width: 484px;
+}
+
+div#accordion h1 {
+  background: #f1f1f1;
+  padding: 10px;
+}
+
+div#accordion p{
+  display: none;
+}
+
+#imgTop{
+  display: none;
+  width: 300px;
+}
+
+#imgBottom{
+  display: none;
+  width: 300px;
+}
+
+#hide{
+  display: none;
+}
